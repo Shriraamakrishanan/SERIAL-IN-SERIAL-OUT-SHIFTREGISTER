@@ -1,6 +1,6 @@
 ## NAME: SHRI RAAMA KRISHANAN J ##
 ## REG NO: 24900816
-## EXP NO 10: SERIAL-IN-SERIAL-OUT-SHIFTREGISTER ##
+## EXP NO 6: SERIAL IN SERIAL OUT SHIFTREGISTER ##
 
 **AIM:**
 
@@ -45,4 +45,4 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **RESULTS**
 
-THE IMPLEMENTATION OF SERIAL-IN-SERIAL-OUT-SHIFTREGISTER IS TESTED AND VERIFIED
+The implementation SISO Shift Register using verilog and validating their functionality using their functional tables are implemented and verified successfully.
